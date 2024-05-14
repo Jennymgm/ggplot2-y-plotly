@@ -1,0 +1,42 @@
+---
+title: "Ejemplos de ggplot2 y plotly"
+author: "Jenny Gonzalez"
+format: html
+toc: true
+lang: es
+theme: darkly
+---
+
+# Carga de paquetes
+
+```{r}
+#| label: carga-paquetes
+#| message: false
+#| warning: false
+
+library(tidyverse)
+library(DT)
+library(knitr)
+library(gapminder)
+```
+
+# Insuficiencia cardiaca
+
+```{r}
+#| label: tabla-insuficiencia-cardiaca
+
+# Tabla de insuficiencia cardiaca
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
